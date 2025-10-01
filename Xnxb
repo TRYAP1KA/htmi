@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello, HTML!</h1>
+    <p>Это базовый HTML документ, созданный в соответствии с заданием. Здесь содержится заголовок, абзац текста и ссылка на сайт example.com.</p>
+    <a href="https://example.com">Перейти на example.com</a>
+</body>
+</html>
